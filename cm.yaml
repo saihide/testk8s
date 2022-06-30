@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test
+  namespace: test
+data:
+  aa: sdfsdjk
